@@ -1,0 +1,17 @@
+{
+  "name": "rake-yeoman",
+  "version": "1.0.0",
+  "description": "Rake for yeoman.",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-yeoman.git"
+  },
+  "keywords": ["rake", "task"],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-yeoman/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-yeoman#readme"
+}
