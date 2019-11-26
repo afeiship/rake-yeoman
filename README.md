@@ -3,7 +3,7 @@
 
 ## installation
 ```bash
-npm i -D afeiship/rake-yeoman --registry=https://registry.npm.taobao.org
+npm i -D @feizheng/rake-yeoman
 ```
 
 ## usage
