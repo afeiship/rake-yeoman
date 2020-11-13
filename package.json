@@ -1,5 +1,5 @@
 {
-  "name": "@feizheng/rake-yeoman",
+  "name": "@jswork/rake-yeoman",
   "version": "1.0.0",
   "description": "Rake for yeoman.",
   "main": "index.rake",
